@@ -24,12 +24,37 @@ git, vue.js, jade, es6, jquery, stylus, scss, css3, bem, bemto, html5, gulp, web
 * https://tattooawards.com/
 
 #### Experience:
-| Time                                              | Place                                                                          | Total                |
-| ------------------------------------------------- | ------------------------------------------------------------------------------ | -------------------- |
-| September 2018 — present (6 months)               | __iMedia Solutions__ ([imedia.by](https://imedia.by)) - frontend developer     |                      |
-| November 2016 — September 2018 (1 year 11 months) | __Click Media__ ([clickmedia.by](https://clickmedia.by)) - frontend developer  |                      |
-| August 2016 - November 2016 (4 months)            | __mnse.ru__ ([mnse.ru](https://mnse.ru)) - junior frontend developer           |                      |
-|                                                   |                                                                                | __3 years 2 months__ |
+<table>
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th>Place</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>September 2018 — present (6 months)</td>
+            <td><b>iMedia Solutions</b> <a href="https://imedia.by" target="_blank">imedia.by</a> - frontend developer</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>November 2016 — September 2018 (1 year 11 months)</td>
+            <td><b>Click Media</b> <a href="clickmedia.by" target="_blank">https://clickmedia.by</a> - frontend developer</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>August 2016 - November 2016 (4 months)</td>
+            <td><b>mnse.ru</b> <a href="https://mnse.ru" target="_blank">mnse.ru</a> - junior frontend developer</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td><b>3 years 2 months</b></td>
+        </tr>
+    </tbody>
+</table>
 
 A little bit about the experience:
 - Cross-browser (IE9+, Chrome, Firefox, Safari) and responsive layout;

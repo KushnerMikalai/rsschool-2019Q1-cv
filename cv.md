@@ -1,5 +1,6 @@
 # CV
 
+<img style="width: 150px" src="https://hh.ru/photo/495558669.jpeg?t=1551376892&h=obsoLNCyPsOlQ-Z03hqPDA" alt="Nikolay Kushner">
 ### Nikolay Kushner
 
 #### Contacts:
@@ -10,7 +11,7 @@
 
 #### Summary:
 Love JavaScript, so I never stop to teach him. Global goals - to develop in the field of frontend, to study node.js and become an IT specialist who manages your development team, owns the technical side, takes part in the work on the project architecture, is engaged in code review, as well as the development of some particularly complex tasks on the project.  
-![alt text](https://media.giphy.com/media/xNrM4cGJ8u3ao/giphy.gif "I will be the best")
+![I will be the best](https://media.giphy.com/media/xNrM4cGJ8u3ao/giphy.gif )
 
 #### Skills:
 git, vue.js, jade, es6, jquery, stylus, scss, css3, bem, bemto, html5, gulp, webpack, ~~drunk driving~~, zeplin, sketch
@@ -67,11 +68,29 @@ A little bit about the experience:
 - Experience with content management systems (Wordpress, Drupal, Bitrix, Modx, OpenCart);
 
 #### Education:
-| Year      | Name                                                                                                                                                        |
-| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2016      | "Website development using HTML, CSS and Javascript" - Educational Center of the hi-tech Park [it-academy.by](https://it-academy.by), Front-end Developer   |
-| 2016      | Advanced course "jQuery+CSS3". Advanced front-end development - [TeachMeSkills](https://teachmeskills.by/) / School of web development, Front-end Developer |
-| 2015      | Photoshop & Web Design programming school "IT SCHOOL" A. Kireeva, web designer                                                                              |
+
+<table>
+    <thead>
+        <tr>
+            <th>Year</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>2016</td>
+            <td>"Website development using HTML, CSS and Javascript" - Educational Center of the hi-tech Park <a href="https://it-academy.by" target="_blank">it-academy.by</a>, Front-end Developer</td>
+        </tr>
+        <tr>
+            <td>2016</td>
+            <td>Advanced course "jQuery+CSS3". Advanced front-end development - <a href="https://teachmeskills.by/" target="_blank">TeachMeSkills</a> / School of web development, Front-end Developer</td>
+        </tr>
+        <tr>
+            <td>2015</td>
+            <td>Photoshop & Web Design programming school "IT SCHOOL" A. Kireeva, web designer</td>
+        </tr>
+    </tbody>
+</table>
 
 #### English level:
 Elementary A1. Currently, I study with a [tutor](https://vk.com/lingvo__cheslavovna) 2-3 times a day. Experience communication not was, only reading literature and attempts of correspondence.

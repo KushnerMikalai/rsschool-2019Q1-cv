@@ -21,6 +21,7 @@ hr {
     width: 100%;
     max-width: 1024px;
     margin: 0 auto;
+    padding: 0 .8em;
 }
 
 .user {
@@ -34,6 +35,10 @@ hr {
 
 .user__name {
     font-size: 2em;
+}
+
+.image {
+    max-width: 100%;
 }
 
 .badge {
